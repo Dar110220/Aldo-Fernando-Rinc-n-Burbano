@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profesor Aldo Fernando Rincón Burbano</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #50b3a2;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 1rem 0;
+        }
+        section {
+            background: white;
+            margin: 1rem 0;
+            padding: 1rem;
+            border-radius: 5px;
+        }
+        h1, h2 {
+            color: #50b3a2;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #f4f4f4;
+            margin: 0.5rem 0;
+            padding: 0.5rem;
+            border-radius: 5px;
+        }
+        a {
+            color: #50b3a2;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Profesor Aldo Fernando Rincón Burbano</h1>
+        <p>Departamento de Física y Geociencias, Universidad del Norte</p>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Biografía</h2>
+            <p>A sus 40 años, el profesor Aldo Fernando Rincón Burbano descubre la naturaleza con cada día que vive. A la edad de 10 conoció rocas del Paleozoico en la parte media del Valle del Río Magdalena, lleva siempre consigo una lupa y camina una vez al mes en la reserva natural Los Charcones, en Piojó, como una especie de ritual para entrar en contacto con el medio ambiente y ejercitar su curiosidad. Su oficina, adscrita al departamento de Física y Geociencias, da fe de ello, pues alberga cerca de cien fósiles provenientes de varias zonas de la región.</p>
+            <p>“Como docente, siempre les inculco a mis estudiantes ser curiosos y aprender a observar, independientemente de que sea un fosilizado o una roca. Como investigador, pienso que la labor que hace Uninorte es única. La primera universidad del Caribe colombiano que tiene una carrera de geociencias”, expresa detrás del escritorio. A su alrededor las bolsas y las cajas con piedras y muestras de fósiles decoran el lugar. Un leve olor a tierra es inminente.</p>
+            <p>Se graduó en 2005 como geólogo de la Universidad Nacional de Bogotá. En 2007 se fue para Estados Unidos, donde hizo una maestría en Estratigrafía y después obtuvo en 2016 su grado de doctor en Paleontología, en la Universidad de Florida. Aldo Rincón fue el primer profesor con este grado académico del programa de Geología y desde entonces supervisa la creciente colección de fósiles que se han descubierto en salidas de campo, organizada con la ayuda del Instituto Smithsoniano de Investigaciones Tropicales, de Panamá.</p>
+            <p>La ciencia que estudia la composición de la tierra prácticamente llegó a su vida desde que era muy pequeño, con su abuelo materno, Amable Burbano, ayudante de campo de algunos geólogos que llegaron a principios del siglo XX a Colombia, y con quien visitó el Valle del Río Magdalena.</p>
+            <p>“Para mí fue una experiencia muy impactante porque soy cachaco e ir a tierra caliente era un viaje nuevo. Además, el calor me dio duro cuando llegué a la universidad”, comenta entre risas, mientras organiza algunos papeles del escritorio.</p>
+        </section>
+        <section>
+            <h2>Estudios</h2>
+            <p>Geología - University of Florida</p>
+        </section>
+        <section>
+            <h2>Publicaciones</h2>
+            <ul>
+                <li>Articulo: FIRST NORTH AMERICAN FOSSIL MONKEY AND EARLY MIOCENE TROPICAL INTERCHANGE: - (2016)</li>
+                <li>Articulo: NEW EARLY MIOCENE PROTOCERATIDS [MAMMALIA, ARTIODACTYLA] FROM PANAMA: - (2015)</li>
+                <li>Articulo: GOMPHOTHERE PROBOSCIDEAN [GOMPHOTHERIUM] FROM THE LATE NEOGENE OF PANAMA: - (2015)</li>
+                <li>Articulo: TEMPORAL CALIBRATION AND BIOCHRONOLOGY OF THE CENTENARIO FAUNA, EARLY MIOCENE OF PANAMA: - (2014)</li>
+                <li>Articulo: NEW RECORD OF ARRETOTHERIUM [MAMMALIA, ANTHRACOTHERIIDAE, BOTHRIODONTINAE] FROM EARLY MIOCENE LAS CASCADAS FORMATION, PANAMA.: - (2013)</li>
+                <li>Articulo: SYSTEMATICS AND BIOGEOGRAPHY OF CROCODILIANS FROM THE MIOCENE OF PANAMA: - (2013)</li>
+                <li>Articulo: FOSSIL EVIDENCE FOR EARLIEST NEOGENE AMERICAN FAUNAL INTERCHANGE: BOA [SERPENTES, BOINAE] FROM THE EARLY MIOCENE OF PANAMA.: - (2012)</li>
+                <li>Articulo: NEW TURTLES [CHELONIA] FROM THE LATE EOCENE THROUGH LATE MIOCENE OF THE PANAMA CANAL BASIN: - (2012)</li>
+                <li>Articulo: NEW FLORIDATRAGULINES [MAMMALIA, CAMELIDAE] FROM THE EARLY MIOCENE LAS CASCADAS FORMATION, PANAMA: - (2012)</li>
+                <li>Articulo: MARINE MAMMALS FROM THE MIOCENE OF PANAMA.: - (2010)</li>
+                <li>Articulo: EXTINCT PECCARY ¿CYNORCA¿ OCCIDENTALE [TAYASSUIDAE] FROM THE MIOCENE OF PANAMA AND CORRELATIONS TO NORTH AMERICA: - (2010)</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contacto</h2>
+            <p>Email: <a href="mailto:aldo.rincon@uninorte.edu.co">aldo.rincon@uninorte.edu.co</a></p>
+        </section>
+    </div>
+</body>
+</html>
